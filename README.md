@@ -1,4 +1,4 @@
-# ⚡ Real-Time Log Analytics Pipeline (Fully Automated)
+#  Real-Time Log Analytics Pipeline (Fully Automated)
 
 This project implements a **real-time log analytics pipeline** where:
 - **Kafka** streams logs
